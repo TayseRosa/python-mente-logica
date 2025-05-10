@@ -27,7 +27,7 @@ Este repositório é um reflexo do meu comprometimento e evolução como profiss
 ## 📁 Estrutura do Repositório
 
 A organização será feita por numeros das aulas
-
+```
 📂 python-mente-logica
 ├── dia1.py
 ├── dia2.py
@@ -35,7 +35,7 @@ A organização será feita por numeros das aulas
 ├── dia4.py
 ├── dia5.py
 └── README.md
-
+```
 
 ---
 
